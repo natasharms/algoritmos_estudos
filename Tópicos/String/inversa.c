@@ -7,11 +7,12 @@ a) Uma função que recebe duas strings, uma modificada pelos amigos e outra par
 
 b) Um programa que leia uma string modificada, chame a função do item a) e imprima a string original.
 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
-#define t 100
+#define t 150
 
 void correcao (char s1[], char s2[]){ 
 
