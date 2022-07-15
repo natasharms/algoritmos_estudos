@@ -5,4 +5,4 @@
 -  package Provas: contém as questões das duas provas realizadas no período.
 
 Esses exercícios demonstram minha evolução não só na linguagem C, mas com Lógica de Programação em geral, visto que esse foi meu primeiro contato com o tema e a primeira vez que, de fato, escrevi algum código do zero. 
-Ao logo do curso aprendi a importância de uma boa documentação e de um código limpo e, aos poucos, fui implementando isso ao meu processo. As vezes acredito que acertei, outras vezes errei e por vezes esqueci completamente, mas sigo aprendendo e evoluindo.
+Ao longo do curso aprendi a importância de uma boa documentação e de um código limpo e, aos poucos, fui implementando isso ao meu processo. As vezes acredito que acertei, outras vezes errei e por vezes esqueci completamente, mas sigo aprendendo e evoluindo.
